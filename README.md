@@ -52,5 +52,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contribution
-Feel free star, fork the repository, create issues, or submit pull requests to improve this tool. Suggestions and feedback are welcome!
+Feel free TO star, fork the repository, create issues, or submit pull requests to improve this tool. Suggestions and feedback are VERY welcome!
 
